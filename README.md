@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flajt&label=Profile%20views&color=0e75b6&style=flat" alt="flajt" /> </p>
 
-- 🔭 I’m currently working on [A small startup idea](https://github.com/Flajt/simplecheckout)
+- 🔭 I’m currently working on [A small project idea](checkout.triskalion.de)
 
 - 🌱 I’m currently learning **Rust, CI/CD, HTML/CSS/JS, Algorithm & Datastructures**
 
