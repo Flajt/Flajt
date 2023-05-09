@@ -3,13 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flajt&label=Profile%20views&color=0e75b6&style=flat" alt="flajt" /> </p>
 
-- 🔭 I’m currently working on [A small project idea](checkout.triskalion.de)
+- 🔭 I’m currently working on something
 
-- 🌱 I’m currently learning **Rust, CI/CD, HTML/CSS/JS, Algorithm & Datastructures**
+- 🌱 I’m currently learning **Multivariate Calculus, ML basics, go, elixir**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Flajt](https://github.com/Flajt)
 
-- 💬 Ask me about **flutter,python3**
 
 <p align="left">
 </p>
