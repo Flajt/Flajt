@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on something
 
-- 🌱 I’m currently learning **Multivariate Calculus, ML basics, go, elixir**
+- 🌱 I’m currently learning: a lot of thigs
 
 - 👨‍💻 All of my projects are available at [https://github.com/Flajt](https://github.com/Flajt)
 
