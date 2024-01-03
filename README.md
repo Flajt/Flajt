@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Flajt</h1>
 <h3 align="center">A curious Dev from Europe</h3>
-
+<p align="center">I consider myself as a full stack developer with focus on mobile development</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flajt&label=Profile%20views&color=0e75b6&style=flat" alt="flajt" /> </p>
 
+## My Skills
+I've used everything listed in at **least** one project.
 ### Languages
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -69,8 +71,19 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
-<p align="left">
-</p>
+## I'm interested in learning / trying
+
+Including but not limited to
+
+### Languages
+![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### Skills
+- Cyber Security
+- Digital / Hardware Forensic
 
 
 
